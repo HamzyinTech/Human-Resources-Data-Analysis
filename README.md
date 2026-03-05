@@ -72,3 +72,6 @@ Identification of patterns that may influence HR strategies
 
 
 
+
+
+

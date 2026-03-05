@@ -69,3 +69,6 @@ Performance comparison between employees
 Workforce composition by gender and department
 
 Identification of patterns that may influence HR strategies
+
+
+

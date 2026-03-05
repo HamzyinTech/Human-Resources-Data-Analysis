@@ -1,3 +1,8 @@
+# HR Analytics Dashboard (Excel)
+A comprehensive interactive Excel dashboard analyzing workforce trends, salary distribution, and performance metrics to support HR decision‑making.
+
+
+
 HR Analytics Dashboard (Excel)
 Project Overview
 
